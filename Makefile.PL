@@ -17,7 +17,7 @@ my %WriteMakefileArgs = (
   "MIN_PERL_VERSION" => "5.008005",
   "NAME" => "CPAN::Test::Dummy::Perl5::DevRelease2",
   "PREREQ_PM" => {},
-  "VERSION" => "0.001",
+  "VERSION" => "0.002",
   "test" => {
     "TESTS" => "t/*.t"
   }
